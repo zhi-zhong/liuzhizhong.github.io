@@ -11,30 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2009/09-2013/06, Central South University, Automation, B.S   
+* 2013/09-2015/06, Central South University, Control science and engineering, M.S
+* 2015/09-2019/06, Central South University, Control science and engineering, Ph.D 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Since 2019, I am a research associate in Prof. Ke Tang's group.
+ 
+Research intrerests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+My current research interests include evolutionary computation, constrained optimization, constrained multi-objective optimization, constrained design and its applications.
+
 
 Publications
 ======
